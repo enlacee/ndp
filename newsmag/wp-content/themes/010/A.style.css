@@ -3880,7 +3880,7 @@ body .td-make-full .sub-menu {
 	}
 }
 .td-main-menu-logo {
-	display: none;
+	display: block;
 	float: left;
 	height: 44px
 }
